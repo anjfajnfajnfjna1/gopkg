@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/bytedance/gopkg.svg)](https://pkg.go.dev/github.com/bytedance/gopkg)
 
-`gopkg` is a universal utility collection for Go, it complements offerings such as Boost, Better std, Cloud tools.
+`gopkg` is a universal utility collection for Go, it complements offerings such as Boost, Better std, Cloud tools .
 
 ## Table of Contents
 
